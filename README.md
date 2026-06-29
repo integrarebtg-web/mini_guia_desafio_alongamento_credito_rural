@@ -157,3 +157,28 @@ def triagem_alongamento_divida(cliente_cooperado):
         return f"{status_final} | Ação: Notificar Credor sobre Compulsoriedade do MCR 2-6-4"
 
     return "CONSULTAR DEPARTAMENTO JURÍDICO"
+📖 5. Miniguia de Estudo (Entrega Final Consolidada)
+Resumos Estruturados do Assunto
+•	A Engrenagem da Política Agrícola: O alongamento de crédito rural é um mecanismo protetivo de ordem pública concebido para salvaguardar a capacidade produtiva e a sobrevivência da empresa agrária frente a intempéries sistêmicas involuntárias.
+•	O Roteiro Processual de Rigor: Para afastar os riscos de consolidação de mora, inscrições restritivas em cadastros de inadimplentes e execuções precipitadas de garantias reais, o produtor e seu corpo técnico devem agir com antecipação. O roteiro exige: constatabilidade pericial imediata do sinistro, cálculo pericial de fluxo de caixa, protocolo formal tempestivo perante a agência detentora do crédito e, em caso de recusa arbitrária, propositura ágil de tutela de urgência com amparo na jurisprudência uníssona dos Tribunais pátrios.
+📕 Glossário de Conceitos Chave
+### 📕 Glossário de Conceitos Chave
+
+| Termo | Definição Técnico-Jurídica / Pericial |
+| :--- | :--- |
+| **MCR** | Manual de Crédito Rural. [cite_start]O código normativo expedido pelo BACEN que reúne as regras de política de crédito rural do país[cite: 158, 174, 207]. |
+| **Súmula 298 do STJ** | [cite_start]Enunciado vinculante do Superior Tribunal de Justiça que determina que o alongamento de dívida originada de crédito rural não constitui faculdade da instituição financeira, mas direito do devedor nos termos da lei[cite: 158, 341, 359, 466]. |
+| **Recursos Controlados** | [cite_start]Linhas de financiamento agrário subsidiadas pelo Tesouro Nacional ou lastreadas em exigibilidades legais (como depósitos compulsórios), rigidamente protegidas pelo microssistema do MCR[cite: 158, 494]. |
+| **Nexo Causal** | [cite_start]A obrigação pericial de comprovar a relação direta de causa e efeito entre a intempérie climática ou de mercado e a perda real de receita verificada na propriedade[cite: 158, 506]. |
+| **Stay Period** | [cite_start]Período de suspensão automática de ações e execuções (estabelecido em 180 dias) obtido via blindagem de Recuperação Judicial para produtores rurais que comprovem atividade por pelo menos 2 anos[cite: 158, 375, 383]. |
+| **Comissão de Permanência** | [cite_start]Encargo moratório considerado ilegal e abusivo pelo STJ e Tribunais Estaduais quando aplicado em Cédulas de Crédito Rural devido à falta de previsão no Decreto-Lei nº 167/67[cite: 158, 524]. |
+| **Resolução CMN 5.220/2025** | [cite_start]Norma do Conselho Monetário Nacional que facilitou a renegociação do custeio rural, permitindo de forma flexível a solicitação do alongamento mesmo após o vencimento da parcela[cite: 27, 133, 368, 555]. |
+| **Resolução CMN 5.314/2026** | [cite_start]Alteração normativa recente que inseriu a expressão "por sua conveniência e decisão" para o alongamento bancário, gerando o atual conflito com o direito subjetivo fixado pelo STJ[cite: 32, 67, 70, 513]. |
+| **Sicor** | [cite_start]Sistema de Operações do Crédito Rural e do Proagro do Banco Central do Brasil, motor de regras onde as instituições registram dados de risco e coordenadas geodésicas das glebas[cite: 104, 234, 279, 309]. |
+| **Proagro** | [cite_start]Programa de Garantia da Atividade Agropecuária, que visa exonerar o produtor do cumprimento de obrigações financeiras mediante a comprovação pericial de perdas por fenômenos naturais[cite: 207, 272, 274, 546]. |
+🔄 Prompts Reutilizáveis para Análise e Revisão
+•	Prompt para Auditoria de Cédulas: "Atue como um perito contábil financeiro judicial. Analise esta memória de cálculo de débito rural fornecida pelo banco e verifique se há incidência disfarçada de comissão de permanência, elevação unilateral de juros em aditivos contratuais ou capitalização de juros não contratada, confrontando com as vedações do Decreto-Lei nº 167/1967."
+•	Prompt para Checklist de IA: "Atue como um analista de sistemas. Com base na árvore de decisão de triagem de alongamento do MCR 2-6-4, monte um checklist interativo em formato markdown para auditar se um dossiê encaminhado por um produtor atende aos critérios formais exigidos pelas Câmaras de Direito Privado do TJSP e TJPR."
+🛠️ 6. Considerações sobre Transição de Carreira e Automação
+Este projeto prova que a transição de carreira para a área de TI potencializada por Inteligência Artificial não exige o descarte da sua experiência prévia. Ao contrário, o mercado de tecnologia exige especialistas de domínio (Subject Matter Experts) que saibam o que construir. Unir a bagagem analítica e jurídica da perícia judicial à engenharia de prompts avançada cria a base perfeita para construir ecossistemas de automação corporativa de alto valor de mercado no ecossistema do Agronegócio brasileiro.
+
