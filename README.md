@@ -215,91 +215,21 @@ A Engrenagem da Política Agrícola: O alongamento de crédito rural é um mecan
 
 O Roteiro Processual de Rigor: Para afastar os riscos de consolidação de mora, inscrições restritivas em cadastros de inadimplentes e execuções precipitadas de garantias reais, o produtor e seu corpo técnico devem agir com antecipação. O roteiro exige: constatação pericial imediata do sinistro, cálculo pericial de fluxo de caixa, protocolo formal tempestivo perante a agência detentora do crédito e, em caso de recusa arbitrária, propositura ágil de tutela de urgência com amparo na jurisprudência uníssona dos Tribunais pátrios.
 
-📕 Glossário de Conceitos Chave
+### 📕 Glossário de Conceitos Chave
 
-Termo
-
-Definição Técnico-Jurídica / Pericial
-
-Fonte Regulatória / Jurisprudencial
-
-Alongamento de Dívida Rural
-
-Mecanismo protetivo de ordem pública concebido para reprogramar o calendário de pagamentos e salvaguardar a capacidade produtiva e a sobrevivência da empresa agrária frente a intempéries sistêmicas involuntárias.
-
-MCR 2-6-4 / Súmula 298 STJ
-
-MCR
-
-Manual de Crédito Rural. O código normativo expedido pelo BACEN que reúne as regras de política de crédito rural do país.
-
-MCR - BACEN
-
-Súmula 298 do STJ
-
-Enunciado vinculante do Superior Tribunal de Justiça que determina que o alongamento de dívida originada de crédito rural não constitui faculdade da instituição financeira, mas direito do devedor nos termos da lei.
-
-Superior Tribunal de Justiça
-
-Recursos Controlados
-
-Linhas de financiamento agrário subsidiadas pelo Tesouro Nacional ou lastreadas em exigibilidades legais (depósitos compulsórios), protegidas pelo microssistema do MCR.
-
-MCR 6-2 / SNCR
-
-Nexo Causal
-
-A obrigação pericial de comprovar a relação direta de causa e efeito entre a intempérie climática/de mercado e o decréscimo econômico verificado na propriedade.
-
-MCR - Documento 3 (RCP)
-
-Zarc
-
-Zoneamento Agrícola de Risco Climático. Ferramenta analítica oficial que indica os municípios, tipos de solo e períodos de plantio recomendados para mitigar riscos climáticos.
-
-Ministério da Agricultura (MAPA)
-
-COP
-
-Comunicação de Perdas. O requerimento formal pelo qual o produtor rural notifica a instituição financeira sobre a ocorrência de um evento adverso na lavoura.
-
-Banco Central do Brasil
-
-RCP
-
-Relatório de Comprovação de Perdas. Documento técnico preenchido por perito encarregado após vistoria in loco ou via sensoriamento remoto para quantificar e validar os danos gerados pelo sinistro.
-
-MCR - Documento 3 (RCP)
-
-Stay Period
-
-Período de suspensão automática de ações e execuções (180 dias) obtido via blindagem de Recuperação Judicial para produtores PF que comprovem atividade por 2 anos.
-
-Lei nº 11.101/2005 (Recuperações)
-
-Comissão de Permanência
-
-Encargo moratório considerado ilegal e abusivo quando aplicado em Cédulas de Crédito Rural por ausência de previsão em leis especiais.
-
-Decreto-Lei nº 167/67 / STJ
-
-Sicor
-
-Sistema central estruturado do Banco Central do Brasil onde as instituições financeiras obrigatoriamente registram dados de risco e coordenadas geodésicas.
-
-Banco Central do Brasil
-
-Resolução CMN 5.220/2025
-
-Norma do Conselho Monetário Nacional que flexibilizou a renegociação do custeio rural, permitindo solicitações extemporâneas sob determinadas condições.
-
-Conselho Monetário Nacional
-
-Resolução CMN 5.314/2026
-
-Alteração regulatória que inseriu o termo "por sua conveniência e decisão" para a prorrogação bancária, gerando o atual conflito normativo com a jurisprudência do STJ.
-
-Conselho Monetário Nacional
+| Termo | Definição Técnico-Jurídica / Pericial | Fonte Regulatória / Jurisprudencial |
+| :--- | :--- | :--- |
+| **MCR** | Manual de Crédito Rural. O código normativo expedido pelo BACEN que reúne as regras de política de crédito rural do país. | MCR - BACEN |
+| **Súmula 298 do STJ** | Enunciado vinculante do Superior Tribunal de Justiça que determina que o alongamento de dívida originada de crédito rural não constitui faculdade da instituição financeira, mas direito do devedor nos termos da lei. | Superior Tribunal de Justiça |
+| **Alongamento de Dívida** | Mecanismo político e jurídico para reprogramar o calendário de pagamento da dívida nos casos de comprovada impossibilidade de adimplemento. | MCR 2-6-4 / Súmula 298 STJ |
+| **Recursos Controlados** | Linhas de financiamento agrário subsidiadas pelo Tesouro Nacional ou lastreadas em exigibilidades legais (depósitos compulsórios), protegidas pelo microssistema do MCR. | MCR 6-2 / SNCR |
+| **Nexo Causal** | A obrigação pericial de comprovar a relação direta de causa e efeito entre a intempérie climática/de mercado e o decréscimo econômico verificado na propriedade. | MCR - Documento 3 (RCP) |
+| **Zarc** | Zoneamento Agrícola de Risco Climático. Parâmetro que dita os períodos e regiões de plantio para fins de compliance e cobertura. | Ministério da Agricultura (MAPA) |
+| **Resolução CMN 5.220/2025** | Norma que abriu o rito de flexibilidade, permitindo a solicitação de dilação de parcelas mesmo após o vencimento do título. | Conselho Monetário Nacional |
+| **Resolução CMN 5.314/2026** | Alteração que inseriu a expressão "por sua conveniência e decisão", originando o atual conflito com o direito subjetivo do produtor. | Conselho Monetário Nacional |
+| **Stay Period** | Período de suspensão automática de ações e execuções (180 dias) obtido via blindagem de Recuperação Judicial para produtores rurais. | Lei de Recuperação de Empresas e Falências |
+| **Comissão de Permanência** | Encargo moratório considerado ilegal e abusivo quando aplicado em Cédulas de Crédito Rural por ausência de previsão legal. | Decreto-Lei nº 167/67 / STJ |
+| **Sicor** | Sistema de Operações do Crédito Rural e do Proagro. Terminal do BACEN onde as instituições registram dados de risco e coordenadas geodésicas. | Banco Central do Brasil |
 
 🔄 Prompts Reutilizáveis para Análise e Revisão
 
